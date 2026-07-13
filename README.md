@@ -61,4 +61,4 @@ Customer Insights: Business teams can tailor retention strategies based on custo
 
 6. Screenshots / Demos
 https://github.com/chentsa/Blinkit-Analytics-Quick-Commerce-Performance-Dashboard/blob/main/executive%20overview.png
-
+https://github.com/chentsa/Blinkit-Analytics-Quick-Commerce-Performance-Dashboard/blob/main/Sales%20analysis.png
