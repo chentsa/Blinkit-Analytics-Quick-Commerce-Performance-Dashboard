@@ -22,7 +22,7 @@ The data spans five interconnected tables — customers, inventory, products, or
 Business Problem
 Quick-commerce platforms like Blinkit operate on thin margins and rapid inventory turnover, making it difficult for teams to quickly answer questions like: Which products and categories drive the most revenue? Where are stockouts or overstock situations occurring? Which customer segments are most valuable? Is marketing spend translating into orders?
 
-Goal of the Dashboard
+6.Goal of the Dashboard
 To deliver a 3-page interactive report — Executive Overview, Sales, and Marketing — that:
 Enables stakeholders to monitor sales, inventory, and marketing performance at a glance.
 Supports decisions such as restocking priorities, campaign budget allocation, and customer targeting.
