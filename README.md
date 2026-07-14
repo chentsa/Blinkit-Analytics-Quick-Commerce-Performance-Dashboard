@@ -1,11 +1,11 @@
 # Blinkit-Analytics-Quick-Commerce-Performance-Dashboard
 🛒 Blinkit Analytics: Quick Commerce Performance Dashboard
 
-2. Short Description / Purpose
+1. Short Description / Purpose
 
 The Blinkit Analytics Dashboard is an interactive Power BI report designed to help stakeholders monitor and analyze quick-commerce operations across customers, inventory, products, orders, and marketing performance in a single consolidated view. This tool is intended for operations analysts, category managers, and business decision-makers who need a quick, data-driven read on sales performance, inventory health, and marketing ROI.
 
-3. Tech Stack
+2. Tech Stack
 The dashboard was built using the following tools and technologies:
 📊 Power BI Desktop – Main data visualization and report-building platform.
 📂 Power Query – Data cleaning and transformation layer for shaping raw Blinkit datasets (customers, inventory, products, orders, marketing performance) into analysis-ready tables.
@@ -14,15 +14,15 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – .pbix for development and .png for dashboard previews.
 
 
-4. Data Source
+3. Data Source
 Source:Kaggle
 The data spans five interconnected tables — customers, inventory, products, orders, and marketing performance — covering customer demographics, product catalog details, stock levels, order transactions, and campaign-level marketing metrics.
 
-5. Features / Highlights
+4. Features / Highlights
 Business Problem
 Quick-commerce platforms like Blinkit operate on thin margins and rapid inventory turnover, making it difficult for teams to quickly answer questions like: Which products and categories drive the most revenue? Where are stockouts or overstock situations occurring? Which customer segments are most valuable? Is marketing spend translating into orders?
 
-6.Goal of the Dashboard
+5.Goal of the Dashboard
 To deliver a 3-page interactive report — Executive Overview, Sales, and Marketing — that:
 Enables stakeholders to monitor sales, inventory, and marketing performance at a glance.
 Supports decisions such as restocking priorities, campaign budget allocation, and customer targeting.
